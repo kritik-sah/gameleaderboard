@@ -14,8 +14,8 @@ export default function App({ Component, pageProps }: AppProps) {
     <main className={`${spaceGrotesk.variable} font-space-grotesk`}>
       <Head>
         <meta charSet="UTF-8" />
-        <title>Treasure Hunt</title>
-        <meta name="description" content="Find the clues wide spread at zo world and unlock the treasuere" />
+        <title>Games LeaderBoard</title>
+        <meta name="description" content="Games LeaderBoard" />
         <meta name="keywords" content="Zo world, treasure hunt" />
         <meta name="author" content="Kritik Sah, Rebel" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
